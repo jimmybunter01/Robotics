@@ -1,5 +1,5 @@
 # Robotics
 Code for my Robotics Projects
 
-[![Control Robot with Controller](https://img.youtube.com/vi/Hqf1WMlbCCo/0.jpg)](https://www.youtube.com/watch?v=Hqf1WMlbCCo)
-
+![Control Robot with Gamepad](https://raw.githubusercontent.com/jimmybunter01/Robotics/main/media/SO-ARM100_Gamepad_Control.gif)
+- [Control Robot with Gamepad - YouTube](https://www.youtube.com/watch?v=Hqf1WMlbCCo)
